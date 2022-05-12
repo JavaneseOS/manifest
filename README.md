@@ -25,7 +25,7 @@ $ . build/envsetup.sh
 $ lunch java_$device-userdebug
 
 # Build the code
-$ mka java -jX
+$ mka bacon -j$(nproc --all)
 ```
 
 ---------------------------------------------------------------------------------------
