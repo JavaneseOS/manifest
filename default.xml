@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="java"         
-          fetch="https://github.com/Java-OS"
+          fetch="https://github.com/Javanese-OS"
           revision="11" />  
 
                   
