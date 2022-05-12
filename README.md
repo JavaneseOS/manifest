@@ -1,6 +1,6 @@
 # JAVA OS #
 <p align="center">
-<a href="https://t.me/KomodOSRom"><img src="https://img.shields.io/badge/Telegram-Chat-blue?style=popout-square"></a>
+<a href="https://t.me/realme8indonesia"><img src="https://img.shields.io/badge/Telegram-Chat-blue?style=popout-square"></a>
 </p>
 
 ### Sync ###
